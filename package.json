@@ -1,6 +1,6 @@
 {
   "name": "wenku8-downloader",
-  "version": "0.1.18",
+  "version": "0.1.19",
   "description": "\u8f7b\u5c0f\u8bf4\u6587\u5e93\u7684\u547d\u4ee4\u884c\u5c0f\u8bf4\u4e0b\u8f7d\u5668",
   "main": "src/index.ts",
   "scripts": {
